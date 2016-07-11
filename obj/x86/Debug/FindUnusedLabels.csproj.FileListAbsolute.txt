@@ -1,8 +1,0 @@
-C:\Users\kvoell\AppData\Local\Temporary Projects\FindUnusedLabels\bin\Debug\FindUnusedLabels.exe
-C:\Users\kvoell\AppData\Local\Temporary Projects\FindUnusedLabels\bin\Debug\FindUnusedLabels.pdb
-C:\Users\kvoell\AppData\Local\Temporary Projects\FindUnusedLabels\obj\x86\Debug\FindUnusedLabels.exe
-C:\Users\kvoell\AppData\Local\Temporary Projects\FindUnusedLabels\obj\x86\Debug\FindUnusedLabels.pdb
-C:\Users\v-kevoel\Desktop\FindUnusedLabels\obj\x86\Debug\FindUnusedLabels.exe
-C:\Users\v-kevoel\Desktop\FindUnusedLabels\obj\x86\Debug\FindUnusedLabels.pdb
-C:\Users\v-kevoel\Desktop\FindUnusedLabels\bin\Debug\FindUnusedLabels.exe
-C:\Users\v-kevoel\Desktop\FindUnusedLabels\bin\Debug\FindUnusedLabels.pdb

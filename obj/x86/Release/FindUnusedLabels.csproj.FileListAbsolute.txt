@@ -1,6 +1,0 @@
-C:\Users\v-kevoel\Desktop\FindUnusedLabels\bin\Release\FindUnusedLabels.exe
-C:\Users\v-kevoel\Desktop\FindUnusedLabels\bin\Release\FindUnusedLabels.pdb
-C:\Users\v-kevoel\Desktop\FindUnusedLabels\obj\x86\Release\FindUnusedLabels.exe
-C:\Users\v-kevoel\Desktop\FindUnusedLabels\obj\x86\Release\FindUnusedLabels.pdb
-C:\Projects\In House\FindUnusedLabels\obj\x86\Release\FindUnusedLabels.exe
-C:\Projects\In House\FindUnusedLabels\obj\x86\Release\FindUnusedLabels.pdb
